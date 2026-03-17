@@ -11,10 +11,9 @@ We pledge to make participation respectful and inclusive.
 ## Enforcement Responsibilities
 Violations will be reviewed and handled appropriately.
 
+## Scope
 
-##Scope
-
-##Enforcement Guidelines
+## Enforcement Guidelines
 
 ## Attribution
 Inspired by open-source community standards.

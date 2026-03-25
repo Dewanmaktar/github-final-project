@@ -15,7 +15,6 @@ def emotion_detector_route():
         return "Invalid input! Try again."
 
     response = emotion_detector(text_to_analyze)
-
     return str(response)
 
 if __name__ == "__main__":
